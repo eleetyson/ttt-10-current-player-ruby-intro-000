@@ -35,8 +35,4 @@ end
 #returns the "X" or "O" to indicate which player's turn it is -- with a ternary operator
 def current_player(board)
   turn_count(board).even? ? (return "X") : (return "O")
-=======
-def current_player(board)
-  
->>>>>>> 688ef9f1699d7a0a8724e8114edba7b46cf6a3eb
 end
