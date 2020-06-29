@@ -9,7 +9,6 @@ def turn_count(board)
   return total_turns
 end
 
-<<<<<<< HEAD
 =begin
 #returns the "X" or "O" to indicate which player's turn it is -- with modulo operator
 def current_player(board)
